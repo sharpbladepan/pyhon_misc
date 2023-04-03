@@ -1,5 +1,5 @@
 ### speech_synthesis_basic_demo.py
-使用MS Azure提供的语音识别服务，将一段文本转换成语音并保存wav格式的本地文件。
+使用MS Azure提供的语音合成服务，将一段文本转换成语音并保存wav格式的本地文件。
 
 ### speech_synthesis_ssml_demo.py
 使用ssml格式定义的文本，ssml可以指定语速，语调，风格等，能够提供更多的控制。
